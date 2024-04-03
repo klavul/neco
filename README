@@ -1,0 +1,11 @@
+* NECO is Emacs Corrected Outright
+- No performance compromise
+  We'll use rust and develop HVM-based extension language (Rhombus for now)
+- TUI, GUI, SOUNDUI, BRAILEUI
+- Ropes, gaps, piece trees, crdts
+- Syndicated Actor Model
+- Abstract Structural/modal/contextual editing system
+
+# Local Variables:
+# mode: org
+# End:

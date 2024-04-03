@@ -1,0 +1,13 @@
+* <2024-04-03 Ср> I decided
+It, and SAM, are my long-term 1h once a two days projects now.  I'm sick and not in greatest mental state, but it's alright. I'll get better ;)
+** Make a naive and pure rhombus notepad
+- My first rhombus program and my first text editor, yay!
+- We'll store buffer as a.. list of characters!
+- We'll implement the protocol, the Actors, hehe..
+  Ok, we need to understand wtf SAM is, best done by implementing it in rhombus ig.
+  ESTIMATE: 2 weeks to make it kinda work.
+
+* 
+# Local Variables:
+# mode: org
+# End:
